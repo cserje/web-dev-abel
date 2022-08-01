@@ -19,3 +19,8 @@ venv\Scripts\activate
 ```bash
 pip install Flask
 ```
+
+### Run flask server
+```bash
+flask run --reload # server reloads on changes
+```
