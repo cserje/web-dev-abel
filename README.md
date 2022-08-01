@@ -4,6 +4,7 @@
 ## Cloning the repo
 ```bash
 git clone https://github.com/cserje/web-dev-abel.git
+cd web-dev-abel
 ```
 
 ## Flask installation
